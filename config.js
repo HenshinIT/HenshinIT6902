@@ -1,11 +1,10 @@
 
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introDesc: `Anh thích em làm người iuuu anh nhé,
+    anh không hứa sẽ làm cho em hạnh phúc . Nhưng anh tin chắc 
+    không ai mang lại hạnh phúc cho em bằng anh <3`,
+    btnIntro: 'Nhấn vào đây để tiếp tục :333',
     title: 'Anh iuuu em làm người iuuu anh nhé babe <3 ',
     desc: 'Em có 2 lựa chọn hãy chọn theo ý muốn của em :3 ',
     btnYes: 'I love U so much <33',
